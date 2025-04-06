@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: EstateAgency
-Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
+Template Name: EstateAgency
+Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
